@@ -1,0 +1,10 @@
+gradio
+numpy
+scikit-image
+matplotlib
+scikit-learn
+torch
+torchvision
+Pillow
+pandas
+

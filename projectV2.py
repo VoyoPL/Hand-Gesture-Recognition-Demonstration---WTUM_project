@@ -374,4 +374,4 @@ with gr.Blocks() as gui:
 if __name__ == "__main__":
     #print(model)
     #print(model.)
-    gui.launch()
+    gui.launch(server_name="0.0.0.0", server_port=7860)
